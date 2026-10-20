@@ -11,14 +11,14 @@ Built for pharmacies in Nepal. **Works 100% offline** — no internet, no monthl
 ![Windows 10/11](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows&logoColor=white)
 ![100% Offline](https://img.shields.io/badge/100%25-Offline-16a34a)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Free Trial](https://img.shields.io/badge/30--day-Free%20Trial-orange)
-![Lifetime License](https://img.shields.io/badge/License-One--time%20%2F%20Lifetime-8b5cf6)
+![Free Forever](https://img.shields.io/badge/Free-Forever-16a34a)
+![Feedback Welcome](https://img.shields.io/badge/Feedback-Welcome-8b5cf6)
 
 <br/>
 
 ### ⬇️ [**Download for Windows**](https://github.com/4anand20244-ux/pharma/releases/latest)
 
-<sub>Windows 10 / 11 · 64-bit · 30-day free trial · One-time payment, lifetime license</sub>
+<sub>Windows 10 / 11 · 64-bit · Free forever · No trial, no license key</sub>
 
 <br/>
 
@@ -39,7 +39,7 @@ Built for pharmacies in Nepal. **Works 100% offline** — no internet, no monthl
 | 🧾 **DDA-ready invoices** | Thermal receipts (58 mm / 80 mm) with DDA registration, pharmacist name/registration and PAN. |
 | 📶 **No internet needed** | Everything runs on your computer. No cloud, no login server, no downtime when the line is down. |
 | 🔒 **Your data stays yours** | The database never leaves the shop. Download a backup to a pen drive whenever you want. |
-| 💰 **One-time payment** | No subscription. No per-bill charges. Use it for years on the same PC. |
+| 💰 **Free forever** | This version is completely free — no subscription, no per-bill charges, no license key. Use it and send your feedback; more features are coming. |
 
 ---
 
@@ -102,7 +102,7 @@ Shop details and invoice header, receipt width (58 / 80 mm), thermal printer sel
 1. **[Download the installer](https://github.com/4anand20244-ux/pharma/releases/latest)** — `Sajilo.Pharmacy.Setup.1.0.0.exe`.
 2. Run it. If Windows SmartScreen appears, click **More info → Run anyway** (the installer is new and not code-signed yet).
 3. Open **Sajilo Pharmacy** from the desktop, register your pharmacy and start billing.
-4. Your **30-day free trial** starts on first launch. After that, activate with a lifetime license key.
+4. Use it freely — this version is **free forever**. No trial, no license key.
 
 ### System requirements
 
@@ -116,21 +116,22 @@ Shop details and invoice header, receipt width (58 / 80 mm), thermal printer sel
 
 ---
 
-## Try it before you buy
+## Free forever
 
-No signup, no card, no internet. Install it, use every feature free for **30 days**, and activate only if it saves you time.
+No signup, no card, no license key, no internet needed. Install it and use every feature **free forever**.
+
+If it helps your shop, please send me your feedback — tell me what works and what you would like added. I will keep adding more features based on what you need.
 
 <img src="screenshots/login.png" alt="Sajilo Pharmacy login" width="100%" />
 
 ---
 
-## Pricing & license
+## Free forever — feedback welcome
 
-- **30-day free trial** — every feature, no signup, no internet.
-- **One-time payment · lifetime license** — no subscription, no renewal.
-- Each license is **locked to one computer** (Machine ID). Reinstalling on the same PC keeps working.
-- Want to run it on a second PC? Just ask for an additional key.
-- **Contact for current pricing** → [@4anand20244-ux](https://github.com/4anand20244-ux) or open an issue.
+- **Free forever** — every feature, no signup, no card, no internet, no license key.
+- **No subscription, no renewal** — install it and keep using it.
+- **Your feedback shapes the app** — use it in your shop and tell me what is missing. I will add more features.
+- **Send feedback** → [@4anand20244-ux](https://github.com/4anand20244-ux) or open an issue.
 
 ---
 
@@ -149,9 +150,15 @@ In `%APPDATA%\Sajilo Pharmacy\data` on your computer. Use **Settings → Backup*
 </details>
 
 <details>
-<summary><b>How do I activate my license?</b></summary>
+<summary><b>Is there a trial or license key?</b></summary>
 
-Open **Settings → License**, copy the Machine ID and send it to the seller. You will receive a key for that computer — paste it and the app becomes lifetime-activated.
+No. This version is **free forever** — there is no trial period and no license key. Install it and use every feature.
+</details>
+
+<details>
+<summary><b>How can I request a feature or report a problem?</b></summary>
+
+Open an issue or message [@4anand20244-ux](https://github.com/4anand20244-ux) with your feedback. Feature requests from real pharmacies are what guide the next updates.
 </details>
 
 <details>

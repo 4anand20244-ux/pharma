@@ -5,9 +5,9 @@ This repository contains a compiled installer, screenshots and documentation
 for the Sajilo Pharmacy desktop application ("the Software").
 
 1. The Software is proprietary. No source code is provided or licensed here.
-2. You may download and evaluate the Software free of charge for 30 days.
-3. Continued use after the trial requires a valid, machine-locked license key
-   purchased from the author.
+2. This version of the Software is free to download and use forever. No payment,
+   trial period or license key is required.
+3. Feedback is welcome — send suggestions and feature requests to the author.
 4. You may not reverse engineer, decompile, repackage, redistribute or resell
    the Software, or attempt to bypass its licensing, without written
    permission from the author.
@@ -17,4 +17,4 @@ for the Sajilo Pharmacy desktop application ("the Software").
    referring to the Software; they may not be used to represent a different
    product.
 
-For licensing and commercial enquiries, contact @4anand20244-ux on GitHub.
+For feedback, feature requests and enquiries, contact @4anand20244-ux on GitHub.
