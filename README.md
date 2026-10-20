@@ -99,7 +99,7 @@ Shop details and invoice header, receipt width (58 / 80 mm), thermal printer sel
 
 ## Install in 2 minutes
 
-1. **[Download the installer](https://github.com/4anand20244-ux/pharmacy/releases/latest)** — `Sajilo Pharmacy Setup 1.0.0.exe`.
+1. **[Download the installer](https://github.com/4anand20244-ux/pharmacy/releases/latest)** — `Sajilo.Pharmacy.Setup.1.0.0.exe`.
 2. Run it. If Windows SmartScreen appears, click **More info → Run anyway** (the installer is new and not code-signed yet).
 3. Open **Sajilo Pharmacy** from the desktop, register your pharmacy and start billing.
 4. Your **30-day free trial** starts on first launch. After that, activate with a lifetime license key.

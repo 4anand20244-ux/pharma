@@ -5,7 +5,7 @@ tracking, khata, purchases, patients, expenses, reports and thermal receipts.
 
 ## Download
 
-**`Sajilo Pharmacy Setup 1.0.0.exe`** — Windows 10 / 11 (64-bit), ~119 MB.
+**`Sajilo.Pharmacy.Setup.1.0.0.exe`** — Windows 10 / 11 (64-bit), ~119 MB.
 
 ## Highlights
 
