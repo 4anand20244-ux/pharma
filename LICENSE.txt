@@ -1,0 +1,20 @@
+Sajilo Pharmacy — Proprietary Software License
+Copyright © 2026 Sajilo Pharmacy. All rights reserved.
+
+This repository contains a compiled installer, screenshots and documentation
+for the Sajilo Pharmacy desktop application ("the Software").
+
+1. The Software is proprietary. No source code is provided or licensed here.
+2. You may download and evaluate the Software free of charge for 30 days.
+3. Continued use after the trial requires a valid, machine-locked license key
+   purchased from the author.
+4. You may not reverse engineer, decompile, repackage, redistribute or resell
+   the Software, or attempt to bypass its licensing, without written
+   permission from the author.
+5. The Software is provided "as is", without warranty of any kind. The author
+   is not liable for any loss of data or business arising from its use.
+6. Screenshots and documentation in this repository may be shared when
+   referring to the Software; they may not be used to represent a different
+   product.
+
+For licensing and commercial enquiries, contact @anandkishorgupta on GitHub.

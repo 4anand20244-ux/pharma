@@ -1,0 +1,6 @@
+# The 119 MB installer exceeds GitHub's 100 MB per-file repository limit.
+# It is uploaded as a Release asset instead (see _PUBLISHING.md).
+dist/
+
+# Local publishing notes — not part of the public repo.
+_PUBLISHING.md
